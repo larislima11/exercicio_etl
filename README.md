@@ -34,8 +34,8 @@ Realizamos consultas no banco de dados SQLite para visualizar e validar os dados
 1. Automação do Processo:
 Todo o processo de ETL foi automatizado, garantindo eficiência e repetibilidade.
 
-Centralização dos Dados:
-2. Todos os dados, após a transformação, foram centralizados em um banco de dados, facilitando a consulta e manipulação.
+2. Centralização dos Dados:
+Todos os dados, após a transformação, foram centralizados em um banco de dados, facilitando a consulta e manipulação.
 
 3. Facilidade na Manipulação de Dados:
 Utilizar o Pandas permitiu trabalhar com os dados de forma intuitiva, realizando cálculos e transformações de maneira eficiente.
